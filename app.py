@@ -8,11 +8,7 @@ from nltk.stem.porter import PorterStemmer
 ps = PorterStemmer()
 
 def transform_text(text):
-    #  Converts everything to lowercase (e.g., "Hello" → "hello").
     text = text.lower()
-
-    # Tokenizes the text — splits it into a list of words and punctuations.
-    # Example: "hello! how are you?" → ['hello', '!', 'how', 'are', 'you', '?']
     text = nltk.word_tokenize(text)
 
     y = []
@@ -22,7 +18,6 @@ def transform_text(text):
     text = y[:]
     y.clear()
 
-    # Removes stopwords (like: the, is, and, in, to, etc.)
     for i in text:
         if i not in stopwords.words('english') and i not in string.punctuation:
             y.append(i)
