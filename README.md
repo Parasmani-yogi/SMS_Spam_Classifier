@@ -1,4 +1,4 @@
-# Spam Message Classifier
+# SMS_Spam_Classifier
 
 A machine learning project to classify SMS messages as **spam** or **ham (non-spam)** using text preprocessing, vectorization, and machine learning models. The project also includes a **web interface using Streamlit** for interactive predictions.
 
@@ -25,9 +25,8 @@ This project classifies messages as **spam** or **ham**. It includes:
 - Exploratory Data Analysis (EDA) to identify patterns  
 - Feature extraction using **TF-IDF Vectorizer**  
 - Training multiple classifiers and evaluating their performance  
-- Selecting the best model based on **precision** and **accuracy**  
-- Deploying the model using **Streamlit** for a web interface  
-
+- Selecting the best model based on **precision** and **accuracy**
+  
 ---
 
 ## Dataset
