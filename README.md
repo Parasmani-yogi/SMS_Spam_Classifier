@@ -129,9 +129,11 @@ This will open the web page where you can input messages to check if they are sp
 
 ---
 # Demo
-<img width="1642" height="752" alt="image" src="https://github.com/user-attachments/assets/bed625b2-dc07-43de-9c36-5f9c988a8429" />
 
-<img width="1529" height="742" alt="image" src="https://github.com/user-attachments/assets/82eb06cf-94e9-49bf-b3a2-97cc1cc9d6a2" />
+<img width="1919" height="523" alt="image" src="https://github.com/user-attachments/assets/24675669-03d7-4d9f-bef8-ae6922721c8d" />
+
+<img width="1917" height="509" alt="image" src="https://github.com/user-attachments/assets/ed9a8c3c-6ed6-492b-abbd-d67a3d90acb1" />
+
 
 
 
